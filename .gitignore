@@ -10,3 +10,5 @@ gen
 /.gradle/
 /build/
 /gradle/
+/app/src/androidTest/
+/app/src/test/
